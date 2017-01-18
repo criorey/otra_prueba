@@ -1,10 +1,12 @@
-What is the most important element in the artwork (i.e. the focal point)? 
-Are there any structural lines pointing at it?
+# Section 2.1: Focal point and structural lines
 
-Useful expressions:
+* What is the most important element in the artwork (i.e. the focal point)? 
+* Are there any structural lines pointing at it?
 
--The focal point is...
+## Useful expressions:
 
--The viewer's attention is focused on ...
+* The focal point is...
 
--There is no single focal point in the artwork.
+* The viewer's attention is focused on ...
+
+* There is no single focal point in the artwork.
