@@ -1,4 +1,4 @@
-# Describing an artwork
+# Introduction
 
 The learning goals of this resource are the following:
 
