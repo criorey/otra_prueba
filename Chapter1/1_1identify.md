@@ -1,4 +1,4 @@
-__# Section 1.1: Identify the artwork
+# Section 1.1: Identify the artwork
 
 ## Points to be covered
 
