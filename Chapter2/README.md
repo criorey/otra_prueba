@@ -1,0 +1,1 @@
+In this second chapter we are going to deal with some of the most important technical aspects that can be analyzed in an artwork.
