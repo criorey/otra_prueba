@@ -2,19 +2,19 @@
 
 ## Points to be covered
 
-* Artwork's title
+* Artwork's title.
 
-* Name of artist
+* Name of artist.
 
-* Year of origin / artistic period
+* Year of origin / artistic period.
 
 * Media / technique used: e.g. oil on canvas, watercolor, bronze...
 
 * Genre (portrait, still-life, landscape...)
 
-* Degree of likeness with reality (abstract, figurative/representational)
+* Degree of likeness with reality (abstract, figurative/representational).
 
-* Dimensions (if that information is available)
+* Dimensions (if that information is available).
 
 
 
