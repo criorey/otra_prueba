@@ -18,7 +18,7 @@
 
 
 
-Example:
+### Example
 
 "Portrait of Eduard Kosmack is an oil on canvas created by Egon Schiele in 1910. This painting, which measures 100 cm in height by 100 cm in width, is a representational portrait that belongs to Expressionism".
 
