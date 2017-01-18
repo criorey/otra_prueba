@@ -9,7 +9,5 @@
     * [Section 2.2: Depth and perspective](Chapter2/2_2_depth.md)
     * [Section 2.3: Types of lines and brushstrokes](Chapter2/2_3_lines.md)
 * [Chapter 3: Subjective reaction](Chapter3/README.md)
-
-
-
+    * [Section 3.1: Moods and emotions](Chapter3/3_1emotions.md)
 
