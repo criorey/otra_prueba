@@ -1,3 +1,12 @@
-# My Awesome Book
+# Describing an artwork
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The learning goals of this resource are the following:
+
+* To be able to structure a description of an artwork properly.
+
+* To acquire useful vocabulary and expressions in order to be able to describe artworks, particularly paintings.
+
+
+
+
+
