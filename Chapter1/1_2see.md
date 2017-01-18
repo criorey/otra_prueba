@@ -12,7 +12,5 @@
 
 "_The Persistence of Memory_ depicts a surreal scene. On the left (hand) side of the painting we can see two soft melting pocket watches, one of them hanging from a tree branch, and an orange watch covered with ants. In the middle of the composition there is a third melting watch on top of a strange creature. In the background we can see some cliffs."
 
-Click [here] (https://en.wikipedia.org/wiki/File:The_Persistence_of_Memory.jpg) if you want to see Dali's painting.
-Explore [other male portraits by Egon Schiele](https://commons.wikimedia.org/wiki/Male_Portraits_by_Egon_Schiele). 
-
+Click [here] (https://en.wikipedia.org/wiki/The_Persistence_of_Memory) if you want to know more about Dali's painting.
 
