@@ -8,10 +8,8 @@
     * [Section 2.1: Focal point and structural lines](Chapter2/2_1_focal.md)
     * [Section 2.2: Depth and perspective](Chapter2/2_2_depth.md)
     * [Section 2.3: Types of lines and brushstrokes](Chapter2/2_3_lines.md)
+* [Chapter 3: Subjective reaction](Chapter3/README.md)
 
 
 
-
-
-* [Introduction](README.md)
 
