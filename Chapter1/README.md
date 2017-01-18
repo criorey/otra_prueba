@@ -1,0 +1,1 @@
+In this chapter we are going to learn how to identify an artwork and describe what we can see in it.
