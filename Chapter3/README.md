@@ -1,0 +1,1 @@
+In this third chapter we are going to learn how to express our emotional reaction to artworks.
