@@ -15,3 +15,4 @@ Arthur Lubow has described _The Scream_ as "an icon of modern art, a Mona Lisa f
 This is an example of a mathematical formula written in LaTEX.
 
 $$\left|{1\over N}\sum_{n=1}^N \gamma(u_n)-{1\over 2\pi}\int_0^{2\pi}\gamma(t){\rm d}t\right| \le {\varepsilon\over 3}.$$
+
