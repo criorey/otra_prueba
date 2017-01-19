@@ -8,7 +8,7 @@ How is the sense of depth (if any) achieved?
 | -------------  | -------------  | -------------  |
 | 1  | One-point perspective  | Perspectiva frontal  |
 | 2  | Two-point perspective  | Perspectiva oblicua  |
-| 3  | Three-point perspective  | Perspectiva áerea  |
+| 3  | Three-point perspective  | Perspectiva aérea  |
 
 
 
